@@ -1,56 +1,8 @@
+# TUGAS UTS PEMROGRAMAN WEB
 
-<div align="center">
-
-<a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFCC&center=true&vCenter=true&width=800&lines=CRITICAL+SYSTEM+BREACH+DETECTED...;INITIATING+SQL+INJECTION+ANALYSIS...;EXECUTING+DEFENSIVE+PROTOCOLS...;RESEARCH+BY+RIZKY+MAULANA" alt="Typing SVG" />
-</a>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
-
-# 🛑 𝗖𝗬𝗕𝗘𝗥 𝗦𝗘𝗖𝗨𝗥𝗜𝗧𝗬 𝗥𝗘𝗦𝗘𝗔𝗥𝗖𝗛: 𝗦𝗤𝗟 𝗜𝗡𝗝𝗘𝗖𝗧𝗜𝗢𝗡 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦 🛑
-
-<p align="center">
-  <kbd>Status: COMPLETED</kbd> • <kbd>Severity: CRITICAL (CVS 9.8)</kbd> • <kbd>Target: AUTHENTICATION MODULE</kbd>
-</p>
-
-> **DISCLAIMER:** *Repositori dan eksperimen ini dibuat secara eksklusif untuk tujuan edukasi dan pemenuhan Tugas Ujian Tengah Semester (UTS). Segala bentuk teknik eksploitasi di sini hanya dilakukan pada server lokal (Localhost) dan tidak disalahgunakan untuk meretas sistem nyata.*
-
-</div>
-
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h3>👨‍💻 SECURITY RESEARCHER</h3>
-      <code>NAMA  : Rizky Maulana</code><br>
-      <code>NIM   : 312410430</code><br>
-      <code>KELAS : I241C</code><br>
-      <code>TUGAS : UTS Pemrograman Web</code>
-    </td>
-    <td width="50%" align="center">
-      <h3>🛠️ TECH STACK DASHBOARD</h3>
-      <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Apache_Server-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-      <img src="https://img.shields.io/badge/Article_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  
-## 📡 𝗣𝗨𝗕𝗟𝗜𝗞𝗔𝗦𝗜 𝗥𝗜𝗦𝗘𝗧 𝗘𝗞𝗦𝗞𝗟𝗨𝗦𝗜𝗙
-
-Dokumentasi naratif dan pembahasan mendalam mengenai eksperimen ini telah dipublikasikan di **Medium**. Klik *badge* di bawah ini untuk membaca artikel lengkap:
-
-[![READ FULL ARTICLE ON MEDIUM](https://img.shields.io/badge/READ_FULL_ARTICLE_ON_MEDIUM-00FFCC?style=for-the-badge&logo=medium&logoColor=black&labelColor=black)]([LINK_MEDIUM_KAMU])
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="80%">
-
-</div>
+# NAMA : MUHAMMAD RAKHA GHANI
+# NIM : 312410421
+# KELAS : I241C
 
 ## 📑 𝗧𝗔𝗕𝗟𝗘 𝗢𝗙 𝗖𝗢𝗡𝗧𝗘𝗡𝗧𝗦
 1. [Executive Summary](#1-executive-summary)
@@ -174,22 +126,3 @@ Serangan SQLi ditangkis. Payload berbahaya direduksi menjadi string biasa oleh <
 </details>
 
 ---
-
-## 7. REFERENCES
-* [OWASP (Open Web Application Security Project) - SQL Injection](https://owasp.org/www-community/attacks/SQL_Injection)
-* [PHP Official Documentation - Prepared Statements](https://www.php.net/manual/en/mysqli.quickstart.prepared-statements.php)
-* Materi Pembelajaran Pemrograman Web.
-
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.gif" width="100%">
-
-### *"A chain is only as strong as its weakest link. Validate strictly, sanitize deeply."*
-
-<code>© 2026 Penetration Test Documentation by Rizky Maulana. All Rights Reserved.</code>
-
-</div>
-```
-
-***
